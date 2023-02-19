@@ -63,11 +63,15 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) =>
+        err ? console.error(err) : console.log('You have successfully created a professional README.md file in sample folder!')
+    );
 }
 
 // function to initialize program
 function init() {
-
+    inquirer
+        .prompt(questions).then((answers) => writeToFile('./sample/README.md', generateMarkdown(answers)))
 }
 
 // function call to initialize program
