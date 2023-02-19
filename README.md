@@ -86,9 +86,9 @@ npm test
 
 **Application demo**
 
-The following walkthrough video that demonstrates the application's functionality:
+The following walkthrough video demonstrates the application's functionality:
 
-![application demo](assets/img/web-apis-challenge-demo.gif)
+[![Watch the video](https://i9.ytimg.com/vi/Zp2M4TMpQDY/mqdefault.jpg?sqp=CIThyZ8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgYyhlMA8=&rs=AOn4CLANwQpTv7PrZ4eB6qk771Rks2KYwQ)](https://youtu.be/Zp2M4TMpQDY)
 
 ## Questions
 If you have any questions about this project, please open an issue or contact me directly at jzhao@outlook.com. 
