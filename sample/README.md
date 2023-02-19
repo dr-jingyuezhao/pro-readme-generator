@@ -27,7 +27,7 @@ This project is licensed under the MIT license.
 Create a personal fork of the project on Github and make a clean pull request.
 
 ## Tests
-npm test
+To run tests, run the following command: npm test
 
 ## Questions
 If you have any questions about this project, please open an issue or contact me directly at jzhao@outlook.com.
