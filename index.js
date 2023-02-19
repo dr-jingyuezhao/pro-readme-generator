@@ -27,12 +27,12 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What are the steps required to install your project? Please provide a step-by-step description of how to get the development environment running (e.g., npm install).',
+        message: 'What are the steps required to install your project? Please provide the commands to install necessary dependencies (e.g., npm install).',
         name: 'installation',
     },
     {
         type: 'input',
-        message: 'How can your project be used? Please provide instructions and examples for use.',
+        message: 'How can your project be used? Please provide instructions (e.g., running `node index.js`).',
         name: 'usage',
     },
     {
