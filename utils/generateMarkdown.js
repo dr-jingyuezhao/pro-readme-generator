@@ -29,6 +29,38 @@ function renderBadge(licenseChoice) {
 function generateMarkdown(data) {
   return `# ${data.title}
 ${renderBadge(data.license)}
+
+## Description
+${data.description}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+The steps required to install your project: 
+${data.installation}
+
+## Usage
+Examples of how to use this application: 
+${data.usage}
+
+## License
+This project is licensed under the ${data.license}.
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions
+You can view my profile and find more of my work following [the link to my GitHub profile](https://github.com/${data.username}/).
+If you have any questions about this project, please open an issue or contact me directly at ${data.email}.
 `;
 }
 
