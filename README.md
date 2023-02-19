@@ -91,5 +91,5 @@ The following walkthrough video that demonstrates the application's functionalit
 ![application demo](assets/img/web-apis-challenge-demo.gif)
 
 ## Questions
+If you have any questions about this project, please open an issue or contact me directly at jzhao@outlook.com. 
 You can view my profile and find more of my work following [the link to my GitHub profile](https://github.com/dr-jingyuezhao/).
-If you have any questions about this project, please open an issue or contact me directly at jzhao@outlook.com.

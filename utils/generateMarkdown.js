@@ -59,8 +59,8 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-You can view my profile and find more of my work following [the link to my GitHub profile](https://github.com/${data.username}/).
 If you have any questions about this project, please open an issue or contact me directly at ${data.email}.
+You can view my profile and find more of my work following [the link to my GitHub profile](https://github.com/${data.username}/).
 `;
 }
 
