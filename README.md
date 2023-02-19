@@ -82,7 +82,7 @@ SOFTWARE.
 Create a personal fork of the project on Github and make a clean pull request.
 
 ## Tests
-npm test
+The application can be accessed and tested following [the link to GitHub repository](https://github.com/dr-jingyuezhao/pro-readme-generator).
 
 **Application demo**
 
